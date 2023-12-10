@@ -1,1 +1,4 @@
-Lab_3.
+
+Запуск контейнера - `docker compose up --build`
+
+Запуск исходника - `go run main.go`
